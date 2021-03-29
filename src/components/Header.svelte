@@ -7,7 +7,7 @@
     import {headerText} from '../store'
 
 </script>
-<div class='flex items-center bg-blue-200 md:px-0  py-6'>
+<div class='flex items-center  md:px-0  py-6'>
     <img src={backArrow} alt='back arrow icon' />
     <h1 class='lg:text-5xl md:text-3xl text-2xl md:w-10/12 w-full  ml-4 text-left font-bold text-gray-600'>
         {headerText}

@@ -7,7 +7,7 @@
 
 
 <div>
-    <h4 class='my-6 text-blue-500 text-base font-bold'>{secondarySubText}</h4>
+    <h4 class='my-6 text-blue-400 text-base font-bold'>{secondarySubText}</h4>
     <h2 class='md:text-3xl text-xl font-semibold  text-gray-600 md:w-2/4 w-full  mt-2'>{secondaryText}</h2>
 </div>
 
